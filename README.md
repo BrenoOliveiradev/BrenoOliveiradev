@@ -94,3 +94,30 @@ Sigo firme, com foco e constância nos estudos, sempre correndo atrás dos meus 
   />
 
 </p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## 👨🏽‍💻 Minha História
+
+### Origem  
+Nasci em **Aracaju–SE** e, aos 10 anos, me mudei para **Rio das Ostras–RJ**, onde vivi até os 23.  
+Hoje moro em **Chorozinho–CE**, no interior do Ceará.
+
+### Experiência Profissional  
+Minha carreira começou em vendas, passando por diferentes redes varejistas e sempre buscando aprendizado e crescimento.
+
+### Virada para a Tecnologia  
+Apaixonado por tecnologia desde cedo, durante a pandemia conheci a programação. Motivado pelo desejo de oferecer um futuro melhor para minha família e pela chegada do meu primeiro filho, decidi iniciar uma transição de carreira em abril de 2025.
+
+### Formação em Desenvolvimento  
+No **Dev Club**, estudo **front-end, back-end e mobile com JavaScript**, além de integrações com IA, contando com a inspiração de grandes mentores.
+
+### Meus Objetivos  
+Encontrei na programação minha verdadeira paixão.  
+Resolver problemas com código e evoluir a cada dia me aproxima dos meus três grandes sonhos: liberdade financeira, liberdade de tempo e liberdade geográfica.
+
