@@ -11,7 +11,7 @@ Sigo firme, com foco e constância nos estudos, sempre correndo atrás dos meus 
 
 ---
 
-### 🤖 Linguagens e Tecnologias em Estudos
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
