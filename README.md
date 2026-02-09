@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Olá! Me chamo Breno Oliveira dos Santos, tenho 29 anos e atualmente moro no interior do Ceará.
+Olá! Me chamo Breno Oliveira dos Santos, tenho 30 anos e atualmente moro no interior do Ceará.
 Sempre fui apaixonado por tecnologia e sempre tive o sonho de trabalhar com isso. Hoje, sou aluno do DevClub, focado no desenvolvimento Front-End, mas com o objetivo claro de me tornar um desenvolvedor Full Stack.
 Sigo firme, com foco e constância nos estudos, sempre correndo atrás dos meus objetivos.
 
